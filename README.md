@@ -11,7 +11,6 @@
 <img src='./figs/1.png' width='100%'>
 </div>
 
-## Deepfake Detection and Sequential Deepfake Detection 
 
 
 
