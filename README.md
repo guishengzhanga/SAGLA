@@ -22,7 +22,7 @@
 
 ### Download
 ```
-git clone git@github.com:guishengzhanga/SFGLA.git
+git clone git@github.com:guishengzhanga/SAGLA.git
 cd SAGLA
 ```
 
