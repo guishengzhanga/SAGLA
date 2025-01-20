@@ -1,0 +1,9 @@
+clearml
+numpy
+tqdm
+pillow
+pandas
+tensorboard
+fightingcv-attention
+timm
+pytorch_wavelets
